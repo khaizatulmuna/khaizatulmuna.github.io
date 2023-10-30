@@ -1,0 +1,111 @@
+.h1-judul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-style: italic;
+}
+
+.isi-judul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.isi-milea {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.isi-bawahjudul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-milea {
+    width: 20%;
+    height: 30%;
+}
+
+.h2-bawahjudul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h3-petunjuk {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10;
+}
+
+.peta {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h3-prolog {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.isi-tengah {
+    background-color: #f8e4db;
+    width: 750px;
+    height: 150px;
+    border: 4px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    left: 50%;
+    margin-left: 250;
+}
+
+.ul-tengah {
+    list-style-type: none;
+    margin-right: 40;
+}
+
+.isi-tengah2 {
+    background-color : #f8e4db;
+}
+
+.ul-tengah2 {
+    list-style-type: none;
+}
+
+.isi-tengah3 {
+    background-color: #abebb3ba;
+}
+
+.h3-RSVP {
+    margin-left: 40;
+}
+
+.p-konfirmasi {
+    list-style-type: none;
+}
+
+.h3-catatan {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h3-salampenutup {
+    margin-bottom: 40px;
+    margin-left: 1100;
+}
+
+.h3-milea {
+    margin-left: 1115;
+}
+
+body {
+    background-color: #c49ea0;
+}
